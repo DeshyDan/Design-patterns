@@ -18,3 +18,4 @@ Behavioral patterns are concerned with the assignment of responsibilities betwee
 |Iterator Pattern|<https://refactoring.guru/design-patterns/iterator>|
 |Observer Pattern|<https://refactoring.guru/design-patterns/observer>|
 |Mediator Pattern|<https://refactoring.guru/design-patterns/mediator>|
+|Chain of Responsibility Pattern|<https://refactoring.guru/design-patterns/chain-of-responsibility>|
