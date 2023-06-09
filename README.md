@@ -17,3 +17,4 @@ Behavioral patterns are concerned with the assignment of responsibilities betwee
 | Command Pattern|<https://refactoring.guru/design-patterns/command>|
 |Iterator Pattern|<https://refactoring.guru/design-patterns/iterator>|
 |Observer Pattern|<https://refactoring.guru/design-patterns/observer>|
+|Mediator Pattern|<https://refactoring.guru/design-patterns/mediator>|
