@@ -4,6 +4,12 @@
 
 This repository contains the implementation of the design patterns in java.
 
+## Table of contents
+
+- [Behavioral Patterns](#behavioral-patterns)
+- [Structural Patterns](#structural-patterns)
+<!-- - [Creational Patterns](#creational-patterns) -->
+  
 ## Behavioral Patterns
 
 Behavioral patterns are concerned with the assignment of responsibilities between objects, or, encapsulating behavior in an object and delegating requests to it.
@@ -20,3 +26,11 @@ Behavioral patterns are concerned with the assignment of responsibilities betwee
 |Mediator Pattern|Allows an object to encapsulate the communication between other objects|<https://refactoring.guru/design-patterns/mediator>|
 |Chain of Responsibility Pattern|Allows buillding a chain of objects to process a request|<https://refactoring.guru/design-patterns/chain-of-responsibility>|
 |visitor Pattern|Allows adding new operations to an object structure without modifying it|<https://refactoring.guru/design-patterns/visitor>|
+
+## Structural Patterns
+
+Structural patterns are concerned with how classes and objects are composed to form larger structures.
+
+|Structural Patterns|Brief Description|Interesting reads|
+| --- | --- | --- |
+|Composite Pattern|Represents object hierarchies where individual objects and compositions of objects are treated the same way|<https://refactoring.guru/design-patterns/composite>|
