@@ -1,0 +1,7 @@
+package BehavioralPatterns.VisitorPattern;
+
+public interface HtmlNode {
+    void execute(Operation operation);
+
+    
+}
