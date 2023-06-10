@@ -34,3 +34,4 @@ Structural patterns are concerned with how classes and objects are composed to f
 |Structural Patterns|Brief Description|Interesting reads|
 | --- | --- | --- |
 |Composite Pattern|Represents object hierarchies where individual objects and compositions of objects are treated the same way|<https://refactoring.guru/design-patterns/composite>|
+|Adapter Pattern|Allows objects with incompatible interfaces to collaborate|<https://refactoring.guru/design-patterns/adapter>|
