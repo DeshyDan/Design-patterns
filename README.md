@@ -38,3 +38,4 @@ Structural patterns are concerned with how classes and objects are composed to f
 |Decorator Pattern|Allows adding new behaviors to objects by placing these objects inside special wrapper objects that contain the behaviors|<https://refactoring.guru/design-patterns/decorator>|
 |Facade Pattern|Allows hiding the complexity of a subsystem by providing a simple interface|<https://refactoring.guru/design-patterns/facade>|
 |Flyweight Pattern|Allows sharing common state between multiple objects instead of keeping it in each object|<https://refactoring.guru/design-patterns/flyweight>|
+|Bridge Pattern|Allows splitting a large class or a set of closely related classes into two separate hierarchies—abstraction and implementation—which can be developed independently of each other|<https://refactoring.guru/design-patterns/bridge>|
