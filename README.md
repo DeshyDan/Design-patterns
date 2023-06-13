@@ -36,3 +36,4 @@ Structural patterns are concerned with how classes and objects are composed to f
 |Composite Pattern|Represents object hierarchies where individual objects and compositions of objects are treated the same way|<https://refactoring.guru/design-patterns/composite>|
 |Adapter Pattern|Allows objects with incompatible interfaces to collaborate|<https://refactoring.guru/design-patterns/adapter>|
 |Decorator Pattern|Allows adding new behaviors to objects by placing these objects inside special wrapper objects that contain the behaviors|<https://refactoring.guru/design-patterns/decorator>|
+|Facade Pattern|Allows hiding the complexity of a subsystem by providing a simple interface|<https://refactoring.guru/design-patterns/facade>|
