@@ -39,3 +39,4 @@ Structural patterns are concerned with how classes and objects are composed to f
 |Facade Pattern|Allows hiding the complexity of a subsystem by providing a simple interface|<https://refactoring.guru/design-patterns/facade>|
 |Flyweight Pattern|Allows sharing common state between multiple objects instead of keeping it in each object|<https://refactoring.guru/design-patterns/flyweight>|
 |Bridge Pattern|Allows splitting a large class or a set of closely related classes into two separate hierarchies—abstraction and implementation—which can be developed independently of each other|<https://refactoring.guru/design-patterns/bridge>|
+|Proxy Pattern|Allows providing a substitute for another object. The proxy object delegates all the work to the target object and contains some additional behavior. |<https://refactoring.guru/design-patterns/proxy>|
