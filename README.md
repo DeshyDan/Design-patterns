@@ -8,7 +8,7 @@ This repository contains the implementation of the design patterns in java.
 
 - [Behavioral Patterns](#behavioral-patterns)
 - [Structural Patterns](#structural-patterns)
-<!-- - [Creational Patterns](#creational-patterns) -->
+- [Creational Patterns](#creational-patterns)
   
 ## Behavioral Patterns
 
@@ -40,3 +40,11 @@ Structural patterns are concerned with how classes and objects are composed to f
 |Flyweight Pattern|Allows sharing common state between multiple objects instead of keeping it in each object|<https://refactoring.guru/design-patterns/flyweight>|
 |Bridge Pattern|Allows splitting a large class or a set of closely related classes into two separate hierarchies—abstraction and implementation—which can be developed independently of each other|<https://refactoring.guru/design-patterns/bridge>|
 |Proxy Pattern|Allows providing a substitute for another object. The proxy object delegates all the work to the target object and contains some additional behavior. |<https://refactoring.guru/design-patterns/proxy>|
+
+## Creational Patterns
+
+Creational patterns are concerned with the way of creating objects.
+
+|Creational Patterns|Brief Description|Interesting reads|
+| --- | --- | --- |
+|Prototype Pattern|Allows cloning objects, even complex ones, without coupling to their specific classes|<https://refactoring.guru/design-patterns/prototype>|
