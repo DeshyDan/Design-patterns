@@ -49,3 +49,4 @@ Creational patterns are concerned with the way of creating objects.
 | --- | --- | --- |
 |Prototype Pattern|Allows cloning objects, even complex ones, without coupling to their specific classes|<https://refactoring.guru/design-patterns/prototype>|
 |Singleton Pattern|Allows ensuring that a class has only one instance, while providing a global access point to this instance|<https://refactoring.guru/design-patterns/singleton>|
+|Factory Method Pattern|Allows creating objects without specifying the exact class to create|<https://refactoring.guru/design-patterns/factory-method>|
